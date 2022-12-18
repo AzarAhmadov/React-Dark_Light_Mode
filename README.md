@@ -1,4 +1,4 @@
-# React-Dark_Light_Mode
+# Dark and light mode
 https://react-dark-light-mode.vercel.app/
 
 <img width="400" alt="Screen Shot 2022-12-18 at 15 37 13" src="https://user-images.githubusercontent.com/82292818/208325504-80f7c030-397c-4499-a413-cda54510a23a.png">
